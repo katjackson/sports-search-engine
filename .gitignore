@@ -1,2 +1,4 @@
 .DS_store
 nebraska.csv
+__pycache__/
+nebraska_test.csv
